@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "a tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug.http_server": "node http_server/server.js"
+  },
+  "keywords": [
+    "playground"
+  ],
+  "author": "shiyuwudi",
+  "license": "ISC"
+}
